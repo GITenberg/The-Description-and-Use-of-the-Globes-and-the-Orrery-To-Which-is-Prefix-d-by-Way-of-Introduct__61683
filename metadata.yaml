@@ -1,0 +1,32 @@
+_repo: The-Description-and-Use-of-the-Globes-and-the-Orrery-To-Which-is-Prefix-d-by-Way-of-Introduct__61683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, Joseph
+    alias: Harris, J. (Joseph)
+    birthdate: 1704
+    deathdate: 1764
+    gutenberg_agent_id: '51552'
+    url: http://www.gutenberg.org/2009/agents/51552
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Harris_(astronomer)
+description: ''
+gutenberg_issued: '2020-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GA'
+- !lcsh 'Globes'
+- !lcc 'QB'
+- !lcsh 'Astronomical models'
+- GITenberg
+title: 'The Description and Use of the Globes and the Orrery
+
+  To Which is Prefix''d, by Way of Introduction, a Brief
+
+  Account of the Solar System'
+url: http://www.gutenberg.org/ebooks/61683
