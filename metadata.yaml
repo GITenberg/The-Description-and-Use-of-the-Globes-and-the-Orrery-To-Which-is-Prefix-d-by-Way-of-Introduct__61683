@@ -1,5 +1,8 @@
 _repo: The-Description-and-Use-of-the-Globes-and-the-Orrery-To-Which-is-Prefix-d-by-Way-of-Introduct__61683
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61683-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Joseph
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51552
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Harris_(astronomer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61683#The-Description-and-Use-of-the-Globes-and-the-Orrery-To-Which-is-Prefix-d-by-Way-of-Introduct_
 gutenberg_issued: '2020-03-26'
 gutenberg_type: Text
 identifiers:
